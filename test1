@@ -1,5 +1,0 @@
-#CENTOS 7 설치
-FROM centos:7
-
-#nginx 설치
-RUN yum -y nginx
